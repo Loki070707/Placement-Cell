@@ -1,7 +1,7 @@
  <h1 align="center">Placement Cell  📝</h1> 
 
  <a href="https://drab-erin-blackbuck-cape.cyclic.app
-"><h3>LIVE</h3></a>
+">LIVE</a>
 ## Features
 
 - Sign up / Sign in forms for employees
