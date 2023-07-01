@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100vw;
+  height: 100px;
+  background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5.5px );
+-webkit-backdrop-filter: blur( 5.5px );
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding: 0 20px;
+}
+
+.logo h1 {
+  color: #fff;
+  font-size: 35px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  margin-left: 20px;
+  width: 170px;
+}
+
+.links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  },
+  "name": "Placement_Cell",
+  "version": "1.0.0",
+  "description": "Placement Cell project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+      "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviraj3214/Placement_Cell"
+  },
+  "author": "Ravi Raj",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/raviraj3214/Placement_Cell/blob/main/README.md"
+}
