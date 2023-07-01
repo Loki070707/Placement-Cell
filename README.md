@@ -15,4 +15,4 @@
 
 Run `npm install` to install required dependencies.
 ## Start
-run npm start
+npm start
