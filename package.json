@@ -20,4 +20,7 @@
       "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/raviraj3214/Placement_Cell/blob/main/README.md"
 }
