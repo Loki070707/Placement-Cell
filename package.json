@@ -20,12 +20,4 @@
       "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/raviraj3214/Placement_Cell"
-  },
-  "author": "Ravi Raj",
-  "license": "ISC",
-  "bugs": {},
-  "homepage": "https://github.com/raviraj3214/Placement_Cell/blob/main/README.md"
 }
